@@ -1,3 +1,1 @@
-#  ThanhBinhiOS
-
-Nguồn được tạo ra bởi ThanhhBìnhIOS
+#  Diêm Vương FF
